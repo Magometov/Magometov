@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+ ![Header](https://github.com/Magometov/Magometov/blob/main/assets/vAHa-JxOKN8uutn3XE5oUuM7XHuH189LelwbF3p8dUqyPWSM2XnopleOZCpOJAjMG0GnkfXGAmvoy60jLkfgprMo.jpg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
