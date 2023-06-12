@@ -25,4 +25,4 @@
 ## Contacts & CV
 - [CV](https://github.com/Magometov/cv)
 - [telegram](https://t.me/novi_dev)
-- [email](magometov_a.z@mail.ru)
+- magometov_a.z@mail.ru
