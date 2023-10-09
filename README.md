@@ -1,7 +1,7 @@
-# Anzor Magometov
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+to+my+Github+Profile..👻)](https://git.io/typing-svg)
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ruslan-korneevl&label=Profile Views&color=blueviolet&style=plastic" alt="Shaggy Profie Views" /> </p>
+<h1 align="center">Anzor Magometov✌🏿</h1>
+<h3 align="center">I'm a Backend developer</h3>
 
 ## 🚀 Stack of Technologies
 
@@ -23,6 +23,8 @@
 </p>
 
 ## Contacts & CV
-- [CV](https://github.com/Magometov/cv)
-- [telegram](https://t.me/novi_dev)
-- magometov_a.z@mail.ru
+- 📫 How to reach me **magometov_a.z@mail.ru**
+  
+<a href="https://github.com/Magometov/cv" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/545/979/png-clipart-computer-icons-scalable-graphics-cv-resume-desktop-wallpaper.png" alt="@sunset__owl" height="30" width="40" /></a>
+
+<a href="https://t.me/novi_dev" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="@sunset__owl" height="30" width="40" /></a>
