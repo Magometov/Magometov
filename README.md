@@ -67,7 +67,7 @@
   <div id="stats" align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Magometov&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magometov&layout=compact&theme=vision-friendly-dark"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Magometov&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Magometov&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical"/>
   </div>
 
   ---
