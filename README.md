@@ -30,7 +30,7 @@
 
   I am a Backend Developer currently working with UTF-Tech.
 
-  - ♾️ Check out for my projects here - https://github.com/Magometov
+  - ♾️ Check out for my projects here - https://github.com/Magometov?tab=repositories
 
   - 🌱 I’m currently learning more about Django 🐍 and DevOps :cloud:
 
